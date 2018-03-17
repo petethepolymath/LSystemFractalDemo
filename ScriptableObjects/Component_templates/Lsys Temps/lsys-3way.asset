@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75da16647a4dc4793a5b70c8ce759be2, type: 3}
+  m_Name: lsys-3way
+  m_EditorClassIdentifier: 
+  Rules:
+  - {fileID: 11400000, guid: e5e384277f3d24da4b1cb38be0122bc3, type: 2}
+  - {fileID: 11400000, guid: 9aa640d784c774e3b90949f39d54a3e2, type: 2}
+  - {fileID: 11400000, guid: 6cedff2bb28784854a19f377f1f29d0d, type: 2}
+  Axiom: {fileID: 11400000, guid: d67087169160e477184167c97f378a83, type: 2}
+  DNA:
+  - 
+  DNACycle: 0
+  NewDNA: 
+  PrintDNA: A
+  CycleStep: 0
+  MaxCycle: 12
+  CycleTime: 0.2
+  NeedsDrawing: 0
+  NeedsGenerating: 1
+  IsGenerating: 0

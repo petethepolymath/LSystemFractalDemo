@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b74eb8561d00e4f8fa35bff1bc575183, type: 3}
+  m_Name: L-system-1run
+  m_EditorClassIdentifier: 
+  entity: {fileID: 11400000, guid: e9469f81f8112461990e16c469b2568e, type: 2}
+  spawnPoint:
+  - {x: 6, y: 0}
+  - {x: 9, y: 7}
+  - {x: 4, y: 9}
+  gameObj: 0
+  trans: 0
+  posComp: 0
+  movComp: 0
+  mouseInputComp: 0
+  keyInputComp: 0
+  navWaypointComp: 0
+  factoryComp: 0
+  lSysComp: 0

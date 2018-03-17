@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b74eb8561d00e4f8fa35bff1bc575183, type: 3}
+  m_Name: Badie-2 Runs
+  m_EditorClassIdentifier: 
+  entity: {fileID: 11400000, guid: baadb5efee58e40c99a7ba29fb9c229d, type: 2}
+  numberToSpawn: 2
+  gameObj: 0
+  trans: 0
+  posComp: 0
+  movComp: 0
+  mouseInputComp: 0
+  keyInputComp: 0
+  navWaypointComp: 0
+  factoryComp: 0
+  lSysComp: 0
